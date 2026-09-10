@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32048136/README.md)
-<div align="center">
 
 # 🔍 Zero-Setup SEO Skill Pack for Claude
 
